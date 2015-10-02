@@ -103,7 +103,7 @@
                         "env":[
                            {
                               "name":"SOURCE",
-                              "value":"https://github.com/ca-directory/vapp-config-forwardinc/archive/12.0.15.ga.zip"
+                              "value":"https://github.com/az103/ca-directory/vapp-config-forwardinc/archive/12.0.15.ga.zip"
                            },
                            {
                               "name":"DESTINATION",
