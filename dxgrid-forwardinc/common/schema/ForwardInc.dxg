@@ -4,3 +4,4 @@
 
 source "default.dxg";
 source "idmPerson.dxc";
+source "x500.dxg";
